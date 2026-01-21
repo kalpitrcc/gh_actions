@@ -14,4 +14,4 @@ jobs:
     # Define the steps that the job will execute
     steps:
       - name: Print Hello World  # Define the name of the step
-        run: "hello world"  # The command that the step will execute
+        run: "git hub actions testing"  # The command that the step will execute
